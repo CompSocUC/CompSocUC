@@ -1,1 +1,1 @@
-# Kia ora! Please visit [@CompSocUC](https://github.com/CompSocUC)
+# Kia ora! Please visit [@UCCompSoc](https://github.com/UCCompSoc)
